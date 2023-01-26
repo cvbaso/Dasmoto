@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 
-.brushes h2 {
+brushes h2 {
     background-color: mediumspringgreen;
     font-family: Helvetica;
     font-size: 32px;
@@ -15,7 +15,7 @@ h1 {
     color: white;
 }
 
-.frames h2 {
+frames h2 {
     background-color: lightcoral;
     font-family: Helvetica;
     font-size: 32px;
@@ -23,7 +23,7 @@ h1 {
     color: white;
 }
 
-.paints h2 {
+paints h2 {
     background-color: skyblue;
     font-family: Helvetica;
     font-size: 32px;
@@ -31,7 +31,7 @@ h1 {
     color: white;
 }
 
-.sale {
+sale {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
